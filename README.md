@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen910&label=Profile%20views&color=0e75b6&style=flat" alt="ashen910" /> </p>
 
 ---
-- 🌱 I’m currently learning **Swift, Xcode**
+- 🌱 I’m currently learning **ReactJS, NodeJS, Java**
 
 - 💬 Ask me about **Java, ReactJS, MERN**
 
